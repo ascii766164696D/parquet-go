@@ -584,7 +584,7 @@ func StringToVariableName(str string) string {
 		}
 	}
 
-	name = HeadToUpper(name)
+// 	name = HeadToUpper(name)
 	return name
 }
 
